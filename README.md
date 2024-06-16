@@ -16,5 +16,5 @@
  ## Notas importantes:
 - Este é um servidor proxy muito básico e não implementa características avançadas como caching, autenticação, ou criptografia.
 
-- Para testar o servidor proxy, você deve configurar o navegador ou outra aplicação cliente para usar 127.0.0.1 e a porta 8888 como proxy.
+
 
